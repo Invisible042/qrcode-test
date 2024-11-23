@@ -104,7 +104,7 @@
   }
   
   /* For very small screens (phones) */
-  @media (max-width: 480px) {
+  @media (max-width: 486px) {
     .container {
       width: 100%; /* Full width */
       padding: 0 5px; /* Minimal padding */
